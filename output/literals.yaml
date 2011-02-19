@@ -1,0 +1,386 @@
+--- 
+West Ham United: 
+  club: http://dbpedia.org/resource/West_Ham_United_F.C.
+  founded: 1895 as Thames Ironworks
+  leftarm: 3BB9FF
+  body: FFFFFF
+  rightarm: 3BB9FF
+  clubname: West Ham United
+  nickname: The Academy of Football
+  shorts: 3BB9FF
+  homepage: http://www.whufc.com/
+  socks: 3BB9FF
+Queens Park Rangers: 
+  club: http://dbpedia.org/resource/Queens_Park_Rangers_F.C.
+  founded: "1882"
+  leftarm: FFFFFF
+  body: 0000CC
+  rightarm: FF0000
+  clubname: Queens Park Rangers
+  nickname: The Super-Hoops, The Hoops, R's
+  shorts: FFFFFF
+  homepage: http://www.qpr.co.uk/
+  socks: FFFFFF
+Tottenham Hotspur: 
+  club: http://dbpedia.org/resource/Tottenham_Hotspur_F.C.
+  founded: 1882 as Hotspur F.C.
+  leftarm: 80BFFF
+  body: 80BFFF
+  rightarm: 80BFFF
+  clubname: Tottenham Hotspur
+  nickname: Spurs, Lilywhites
+  shorts: 80BFFF
+  homepage: http://www.tottenhamhotspur.com/
+  socks: 80BFFF
+Portsmouth F.C.: 
+  club: http://dbpedia.org/resource/Portsmouth_F.C.
+  founded: "1898"
+  leftarm: FE8E7A
+  body: 86202E
+  rightarm: FE8E7A
+  clubname: Portsmouth F.C.
+  nickname: Pompey
+  shorts: 86202E
+  homepage: http://www.portsmouthfc.co.uk
+  socks: 86202E
+Oldham Athletic: 
+  club: http://dbpedia.org/resource/Oldham_Athletic_A.F.C.
+  founded: 1895, as Pine Villa F.C.
+  leftarm: FF6400
+  body: 0066FF
+  rightarm: FF6400
+  clubname: Oldham Athletic
+  nickname: The Latics
+  shorts: FFFFFF
+  homepage: http://www.oldhamathletic.co.uk/
+  socks: FFFFFF
+Everton: 
+  club: http://dbpedia.org/resource/Everton_F.C.
+  founded: 1878 as St Domingo's F.C. but officially registered in 1892 after Liverpool FC were refused the name by the FA
+  leftarm: ff5d8c
+  body: ff5d8c
+  rightarm: ff5d8c
+  clubname: Everton
+  nickname: The Toffees, The Blues, The School of Science, The People's Club
+  shorts: ffffff
+  homepage: http://www.evertonfc.com/
+  socks: FFFFFF
+Burnley F.C.: 
+  club: http://dbpedia.org/resource/Burnley_F.C.
+  founded: "1882"
+  leftarm: 3BB9FF
+  body: FFFFFF
+  rightarm: 3BB9FF
+  clubname: Burnley F.C.
+  nickname: The Clarets
+  shorts: 3BB9FF
+  homepage: http://www.burnleyfootballclub.com/
+  socks: 9B093F
+Blackburn Rovers: 
+  club: http://dbpedia.org/resource/Blackburn_Rovers_F.C.
+  founded: "1875"
+  leftarm: 0000CC
+  body: 0000CC
+  rightarm: FF0000
+  clubname: Blackburn Rovers
+  nickname: Rovers, Blue and Whites, The Riversiders
+  shorts: ffffFF
+  homepage: http://www.rovers.co.uk
+  socks: FF0000
+Leicester City: 
+  club: http://dbpedia.org/resource/Leicester_City_F.C.
+  founded: "1884"
+  leftarm: 2B55DB
+  body: 2B55DB
+  rightarm: 2B55DB
+  clubname: Leicester City
+  nickname: The Foxes, Fosse, City, Blue Army
+  shorts: fee600
+  homepage: http://www.lcfc.com
+  socks: 2B55DB
+Arsenal: 
+  club: http://dbpedia.org/resource/Arsenal_F.C.
+  founded: 1886 as Dial Square
+  leftarm: FFFF00
+  body: FFFF00
+  rightarm: FFFF00
+  clubname: Arsenal
+  nickname: The Gunners
+  shorts: 6F1225
+  homepage: http://www.arsenal.com/
+  socks: FFFF00
+Wolverhampton Wanderers: 
+  club: http://dbpedia.org/resource/Wolverhampton_Wanderers_F.C.
+  founded: "1877"
+  leftarm: FFFlFF
+  body: febd11
+  rightarm: FFFlFF
+  clubname: Wolverhampton Wanderers
+  nickname: Wolves, The Wanderers
+  shorts: 153E7E
+  homepage: http://www.wolves.co.uk
+  socks: 153E7E
+Middlesbrough: 
+  club: http://dbpedia.org/resource/Middlesbrough_F.C.
+  founded: "1876"
+  leftarm: DD0000
+  body: DD0000
+  rightarm: DD0000
+  clubname: Middlesbrough
+  nickname: The Boro,
+  shorts: DD0000
+  homepage: http://www.mfc.co.uk
+  socks: DD0000
+Birmingham City: 
+  club: http://dbpedia.org/resource/Birmingham_City_F.C.
+  founded: as Small Heath Alliance
+  leftarm: FF0000
+  body: FF0000
+  rightarm: FF0000
+  clubname: Birmingham City
+  nickname: Blues
+  shorts: FFFFFF
+  homepage: http://www.bcfc.com
+  socks: FF0000
+Manchester City: 
+  club: http://dbpedia.org/resource/Manchester_City_F.C.
+  founded: St Mark's
+  leftarm: 88CCFF
+  body: 88CCFF
+  rightarm: 88CCFF
+  clubname: Manchester City
+  nickname: The Citizens, The Blues, City
+  shorts: FFFFFF
+  homepage: http://www.mcfc.co.uk/
+  socks: 88CCFF
+Norwich City: 
+  club: http://dbpedia.org/resource/Norwich_City_F.C.
+  founded: "1902-06-17"
+  leftarm: FFFF00
+  body: FFFF00
+  rightarm: FFFF00
+  clubname: Norwich City
+  nickname: The Canaries
+  shorts: 228B22
+  homepage: http://www.canaries.co.uk/
+  socks: FFFF00
+Derby County: 
+  club: http://dbpedia.org/resource/Derby_County_F.C.
+  founded: "1884-02-05"
+  leftarm: AAD0FF
+  body: D2691E
+  rightarm: AAD0FF
+  clubname: Derby County
+  nickname: The Rams
+  shorts: 0a2ac3
+  homepage: http://www.dcfc.co.uk/
+  socks: 87CEEB
+Sheffield Wednesday: 
+  club: http://dbpedia.org/resource/Sheffield_Wednesday_F.C.
+  founded: "1867-09-04"
+  leftarm: 0000CD
+  body: 0000CD
+  rightarm: 0000CD
+  clubname: Sheffield Wednesday
+  nickname: The Owls, The Wednesday
+  shorts: FFFFFF
+  homepage: http://www.swfc.co.uk
+  socks: 0000CD
+Swindon Town: 
+  club: http://dbpedia.org/resource/Swindon_Town_F.C.
+  founded: "1879"
+  leftarm: FF1000
+  body: 0000CD
+  rightarm: 0000CD
+  clubname: Swindon Town
+  nickname: The Robins, Town
+  shorts: 0000CD
+  homepage: http://www.swindontownfc.co.uk
+  socks: 0000CD
+Barnsley F.C: 
+  club: http://dbpedia.org/resource/Barnsley_F.C.
+  founded: "1887"
+  leftarm: FF0000
+  body: FF0000
+  rightarm: FF0000
+  clubname: Barnsley F.C
+  nickname: The Tykes, The Reds
+  shorts: FFFFFF
+  homepage: http://www.barnsleyfc.co.uk/page/Home/
+  socks: FF0000
+Bradford City A.F.C.: 
+  club: http://dbpedia.org/resource/Bradford_City_A.F.C.
+  founded: "1903"
+  leftarm: FFD700
+  body: FFD700
+  rightarm: FFD700
+  clubname: Bradford City A.F.C.
+  nickname: The Bantams
+  shorts: 98285c
+  homepage: http://www.bradfordcityfc.co.uk/
+  socks: 98285c
+Fulham: 
+  club: http://dbpedia.org/resource/Fulham_F.C.
+  founded: "1879"
+  leftarm: FF0000
+  body: FF0000
+  rightarm: FF0000
+  clubname: Fulham
+  nickname: The Cottagers, The Whites, The Lilywhites.
+  shorts: "8000"
+  homepage: http://www.fulhamfc.com/
+  socks: FFFFFF
+Nottingham Forest: 
+  club: http://dbpedia.org/resource/Nottingham_Forest_F.C.
+  founded: "1865"
+  leftarm: FF2020
+  body: FF2020
+  rightarm: FF2020
+  clubname: Nottingham Forest
+  nickname: Forest, The Reds, The Tricky Trees
+  shorts: 0000CD
+  homepage: http://www.nottinghamforest.co.uk/
+  socks: 0000CD
+Manchester United: 
+  club: http://dbpedia.org/resource/Manchester_United_F.C.
+  founded: 1878, as Newton Heath LYR F.C.
+  leftarm: FFFFFF
+  body: FFFFFF
+  rightarm: FFFFFF
+  clubname: Manchester United
+  nickname: The Red Devils
+  shorts: 005DC4
+  homepage: http://www.manutd.com/
+  socks: FFFFFF
+Charlton Athletic: 
+  club: http://dbpedia.org/resource/Charlton_Athletic_F.C.
+  founded: "1905-06-09"
+  leftarm: ff0000
+  body: ff0000
+  rightarm: ff0000
+  clubname: Charlton Athletic
+  nickname: The Addicks
+  shorts: fff
+  homepage: http://www.cafc.co.uk
+  socks: ff0000
+Coventry City: 
+  club: http://dbpedia.org/resource/Coventry_City_F.C.
+  founded: "1883-08-13"
+  leftarm: 75B2DD
+  body: 75B2DD
+  rightarm: 75B2DD
+  clubname: Coventry City
+  nickname: The Sky Blues
+  shorts: FFFFFF
+  homepage: http://www.ccfc.co.uk/
+  socks: 75B2DD
+Watford: 
+  club: http://dbpedia.org/resource/Watford_F.C.
+  founded: "1881"
+  leftarm: F1EF00
+  body: f1ef00
+  rightarm: F1EF00
+  clubname: Watford
+  nickname: The Hornets, The Golden Boys, Yellow Army, The Horns
+  shorts: ffffff
+  homepage: http://www.watfordfc.com/
+  socks: f1ef00
+Sunderland: 
+  club: http://dbpedia.org/resource/Sunderland_A.F.C.
+  founded: "1879"
+  leftarm: FFFFFF
+  body: FF0000
+  rightarm: FFFFFF
+  clubname: Sunderland
+  nickname: The Black Cats, The Mackems
+  shorts: "770000"
+  homepage: http://www.safc.com/page/Home
+  socks: FF0000
+West Bromwich Albion: 
+  club: http://dbpedia.org/resource/West_Bromwich_Albion_F.C.
+  founded: "1878"
+  leftarm: FFFF00
+  body: FFFF00
+  rightarm: FFFF00
+  clubname: West Bromwich Albion
+  nickname: Albion, The Baggies, The Throstles, West Brom
+  shorts: FFFFFF
+  homepage: http://www.wba.co.uk
+  socks: FF0000
+Southampton: 
+  club: http://dbpedia.org/resource/Southampton_F.C.
+  founded: 1885, as St. Mary's YMA
+  leftarm: FFFFFF
+  body: FFFFFF
+  rightarm: FFFFFF
+  clubname: Southampton
+  nickname: The Saints
+  shorts: FFFFFF
+  homepage: http://www.saintsfc.co.uk/page/Home/
+  socks: FF0000
+Wigan Athletic: 
+  club: http://dbpedia.org/resource/Wigan_Athletic_F.C.
+  founded: "1932"
+  leftarm: 1F24B4
+  body: 1F24B4
+  rightarm: 1F24B4
+  clubname: Wigan Athletic
+  nickname: Latics
+  shorts: 1F24B4
+  homepage: http://www.wiganlatics.co.uk
+  socks: 1D59AF
+Sheffield  United: 
+  club: http://dbpedia.org/resource/Sheffield_United_F.C.
+  founded: "1889"
+  leftarm: FF0000
+  body: FF0000
+  rightarm: FF0000
+  clubname: Sheffield  United
+  nickname: The Blades
+  shorts: red
+  homepage: http://www.sufc.co.uk/
+  socks: red
+Wimbledon: 
+  club: http://dbpedia.org/resource/Wimbledon_F.C.
+  founded: "1889"
+  leftarm: 0000ff
+  body: 0000ff
+  rightarm: 0000ff
+  clubname: Wimbledon
+  nickname: The Dons; Wombles;
+  shorts: 0000ff
+  homepage: http://www.afcwimbledon.co.uk/
+  socks: 0000ff
+Stoke City F.C.: 
+  club: http://dbpedia.org/resource/Stoke_City_F.C.
+  founded: "1863"
+  leftarm: CC0000
+  body: CC0000
+  rightarm: CC0000
+  clubname: Stoke City F.C.
+  nickname: The Potters
+  shorts: CC0000
+  homepage: http://www.stokecityfc.com/
+  socks: FFFFFF
+Reading F.C.: 
+  club: http://dbpedia.org/resource/Reading_F.C.
+  founded: "1871"
+  leftarm: 0000FF
+  body: 0000FF
+  rightarm: 0000FF
+  clubname: Reading F.C.
+  nickname: The Royals
+  shorts: 0000FF
+  homepage: http://www.readingfc.co.uk/
+  socks: 003cc3
+Hull City: 
+  club: http://dbpedia.org/resource/Hull_City_A.F.C.
+  founded: "1904"
+  leftarm: FF9900
+  body: FF9900
+  rightarm: FF9900
+  clubname: Hull City
+  nickname: The Tigers
+  shorts: FF9900
+  homepage: http://www.hullcityafc.premiumtv.co.uk/page/Home
+  socks: FFFFFF

@@ -1,0 +1,2206 @@
+---
+? &id001 !ruby/object:RDF::Literal
+  language: :en
+  object: West Ham United
+:
+  :founded: !ruby/object:RDF::Literal
+    language: :en
+    object: 1895 as Thames Ironworks
+  :socks: !ruby/object:RDF::Literal
+    language: :en
+    object: 3BB9FF
+  :clubname: *id001
+  :club: !ruby/object:RDF::URI
+    uri: !ruby/object:Addressable::URI
+      authority: dbpedia.org
+      fragment:
+      hash: 2048399114
+      host: dbpedia.org
+      normalized_host:
+      normalized_path:
+      normalized_scheme:
+      password:
+      path: /resource/West_Ham_United_F.C.
+      port:
+      query:
+      scheme: http
+      uri_string: http://dbpedia.org/resource/West_Ham_United_F.C.
+      user:
+      userinfo:
+      validation_deferred: false
+  :body: !ruby/object:RDF::Literal
+    language: :en
+    object: FFFFFF
+  :leftarm: !ruby/object:RDF::Literal
+    language: :en
+    object: 3BB9FF
+  :nickname: !ruby/object:RDF::Literal
+    language: :en
+    object: The Academy of Football
+  :rightarm: !ruby/object:RDF::Literal
+    language: :en
+    object: 3BB9FF
+  :homepage: !ruby/object:RDF::URI
+    uri: !ruby/object:Addressable::URI
+      authority: www.whufc.com
+      fragment:
+      hash: 232864529
+      host: www.whufc.com
+      normalized_host:
+      normalized_path:
+      normalized_scheme:
+      password:
+      path: /
+      port:
+      query:
+      scheme: http
+      uri_string: http://www.whufc.com/
+      user:
+      userinfo:
+      validation_deferred: false
+  :shorts: !ruby/object:RDF::Literal
+    language: :en
+    object: 3BB9FF
+
+? &id002 !ruby/object:RDF::Literal
+  language: :en
+  object: Queens Park Rangers
+:
+  :founded: !ruby/object:RDF::Literal
+    language: :en
+    object: "1882"
+  :socks: !ruby/object:RDF::Literal
+    language: :en
+    object: FFFFFF
+  :clubname: *id002
+  :club: !ruby/object:RDF::URI
+    uri: !ruby/object:Addressable::URI
+      authority: dbpedia.org
+      fragment:
+      hash: 1007134473
+      host: dbpedia.org
+      normalized_host:
+      normalized_path:
+      normalized_scheme:
+      password:
+      path: /resource/Queens_Park_Rangers_F.C.
+      port:
+      query:
+      scheme: http
+      uri_string: http://dbpedia.org/resource/Queens_Park_Rangers_F.C.
+      user:
+      userinfo:
+      validation_deferred: false
+  :body: !ruby/object:RDF::Literal
+    language: :en
+    object: 0000CC
+  :leftarm: !ruby/object:RDF::Literal
+    language: :en
+    object: FFFFFF
+  :nickname: !ruby/object:RDF::Literal
+    language: :en
+    object: The Super-Hoops, The Hoops, R's
+  :rightarm: !ruby/object:RDF::Literal
+    language: :en
+    object: FF0000
+  :homepage: !ruby/object:RDF::URI
+    uri: !ruby/object:Addressable::URI
+      authority: www.qpr.co.uk
+      fragment:
+      hash: -1120531824
+      host: www.qpr.co.uk
+      normalized_host:
+      normalized_path:
+      normalized_scheme:
+      password:
+      path: /
+      port:
+      query:
+      scheme: http
+      uri_string: http://www.qpr.co.uk/
+      user:
+      userinfo:
+      validation_deferred: false
+  :shorts: !ruby/object:RDF::Literal
+    language: :en
+    object: FFFFFF
+
+? &id003 !ruby/object:RDF::Literal
+  language: :en
+  object: Tottenham Hotspur
+:
+  :founded: !ruby/object:RDF::Literal
+    language: :en
+    object: 1882 as Hotspur F.C.
+  :socks: !ruby/object:RDF::Literal
+    language: :en
+    object: 80BFFF
+  :clubname: *id003
+  :club: !ruby/object:RDF::URI
+    uri: !ruby/object:Addressable::URI
+      authority: dbpedia.org
+      fragment:
+      hash: -869774656
+      host: dbpedia.org
+      normalized_host:
+      normalized_path:
+      normalized_scheme:
+      password:
+      path: /resource/Tottenham_Hotspur_F.C.
+      port:
+      query:
+      scheme: http
+      uri_string: http://dbpedia.org/resource/Tottenham_Hotspur_F.C.
+      user:
+      userinfo:
+      validation_deferred: false
+  :body: !ruby/object:RDF::Literal
+    language: :en
+    object: 80BFFF
+  :leftarm: !ruby/object:RDF::Literal
+    language: :en
+    object: 80BFFF
+  :nickname: !ruby/object:RDF::Literal
+    language: :en
+    object: Spurs, Lilywhites
+  :rightarm: !ruby/object:RDF::Literal
+    language: :en
+    object: 80BFFF
+  :homepage: !ruby/object:RDF::URI
+    uri: !ruby/object:Addressable::URI
+      authority: www.tottenhamhotspur.com
+      fragment:
+      hash: -1674411448
+      host: www.tottenhamhotspur.com
+      normalized_host:
+      normalized_path:
+      normalized_scheme:
+      password:
+      path: /
+      port:
+      query:
+      scheme: http
+      uri_string: http://www.tottenhamhotspur.com/
+      user:
+      userinfo:
+      validation_deferred: false
+  :shorts: !ruby/object:RDF::Literal
+    language: :en
+    object: 80BFFF
+
+? &id004 !ruby/object:RDF::Literal
+  language: :en
+  object: Portsmouth F.C.
+:
+  :founded: !ruby/object:RDF::Literal
+    language: :en
+    object: "1898"
+  :socks: !ruby/object:RDF::Literal
+    language: :en
+    object: 86202E
+  :clubname: *id004
+  :club: !ruby/object:RDF::URI
+    uri: !ruby/object:Addressable::URI
+      authority: dbpedia.org
+      fragment:
+      hash: -867910590
+      host: dbpedia.org
+      normalized_host:
+      normalized_path:
+      normalized_scheme:
+      password:
+      path: /resource/Portsmouth_F.C.
+      port:
+      query:
+      scheme: http
+      uri_string: http://dbpedia.org/resource/Portsmouth_F.C.
+      user:
+      userinfo:
+      validation_deferred: false
+  :body: !ruby/object:RDF::Literal
+    language: :en
+    object: 86202E
+  :leftarm: !ruby/object:RDF::Literal
+    language: :en
+    object: FE8E7A
+  :nickname: !ruby/object:RDF::Literal
+    language: :en
+    object: Pompey
+  :rightarm: !ruby/object:RDF::Literal
+    language: :en
+    object: FE8E7A
+  :homepage: !ruby/object:RDF::URI
+    uri: !ruby/object:Addressable::URI
+      authority: www.portsmouthfc.co.uk
+      fragment:
+      hash: 286363831
+      host: www.portsmouthfc.co.uk
+      normalized_host:
+      normalized_path:
+      normalized_scheme:
+      password:
+      path: ""
+      port:
+      query:
+      scheme: http
+      uri_string: http://www.portsmouthfc.co.uk
+      user:
+      userinfo:
+      validation_deferred: false
+  :shorts: !ruby/object:RDF::Literal
+    language: :en
+    object: 86202E
+
+? &id005 !ruby/object:RDF::Literal
+  language: :en
+  object: Oldham Athletic
+:
+  :founded: !ruby/object:RDF::Literal
+    language: :en
+    object: 1895, as Pine Villa F.C.
+  :socks: !ruby/object:RDF::Literal
+    language: :en
+    object: FFFFFF
+  :clubname: *id005
+  :club: !ruby/object:RDF::URI
+    uri: !ruby/object:Addressable::URI
+      authority: dbpedia.org
+      fragment:
+      hash: -339901695
+      host: dbpedia.org
+      normalized_host:
+      normalized_path:
+      normalized_scheme:
+      password:
+      path: /resource/Oldham_Athletic_A.F.C.
+      port:
+      query:
+      scheme: http
+      uri_string: http://dbpedia.org/resource/Oldham_Athletic_A.F.C.
+      user:
+      userinfo:
+      validation_deferred: false
+  :body: !ruby/object:RDF::Literal
+    language: :en
+    object: 0066FF
+  :leftarm: !ruby/object:RDF::Literal
+    language: :en
+    object: FF6400
+  :nickname: !ruby/object:RDF::Literal
+    language: :en
+    object: The Latics
+  :rightarm: !ruby/object:RDF::Literal
+    language: :en
+    object: FF6400
+  :homepage: !ruby/object:RDF::URI
+    uri: !ruby/object:Addressable::URI
+      authority: www.oldhamathletic.co.uk
+      fragment:
+      hash: -1307902908
+      host: www.oldhamathletic.co.uk
+      normalized_host:
+      normalized_path:
+      normalized_scheme:
+      password:
+      path: /
+      port:
+      query:
+      scheme: http
+      uri_string: http://www.oldhamathletic.co.uk/
+      user:
+      userinfo:
+      validation_deferred: false
+  :shorts: !ruby/object:RDF::Literal
+    language: :en
+    object: FFFFFF
+
+? &id006 !ruby/object:RDF::Literal
+  language: :en
+  object: Everton
+:
+  :founded: !ruby/object:RDF::Literal
+    language: :en
+    object: 1878 as St Domingo's F.C. but officially registered in 1892 after Liverpool FC were refused the name by the FA
+  :socks: !ruby/object:RDF::Literal
+    language: :en
+    object: FFFFFF
+  :clubname: *id006
+  :club: !ruby/object:RDF::URI
+    uri: !ruby/object:Addressable::URI
+      authority: dbpedia.org
+      fragment:
+      hash: -132211195
+      host: dbpedia.org
+      normalized_host:
+      normalized_path:
+      normalized_scheme:
+      password:
+      path: /resource/Everton_F.C.
+      port:
+      query:
+      scheme: http
+      uri_string: http://dbpedia.org/resource/Everton_F.C.
+      user:
+      userinfo:
+      validation_deferred: false
+  :body: !ruby/object:RDF::Literal
+    language: :en
+    object: ff5d8c
+  :leftarm: !ruby/object:RDF::Literal
+    language: :en
+    object: ff5d8c
+  :nickname: !ruby/object:RDF::Literal
+    language: :en
+    object: The Toffees, The Blues, The School of Science, The People's Club
+  :rightarm: !ruby/object:RDF::Literal
+    language: :en
+    object: ff5d8c
+  :homepage: !ruby/object:RDF::URI
+    uri: !ruby/object:Addressable::URI
+      authority: www.evertonfc.com
+      fragment:
+      hash: -359742919
+      host: www.evertonfc.com
+      normalized_host:
+      normalized_path:
+      normalized_scheme:
+      password:
+      path: /
+      port:
+      query:
+      scheme: http
+      uri_string: http://www.evertonfc.com/
+      user:
+      userinfo:
+      validation_deferred: false
+  :shorts: !ruby/object:RDF::Literal
+    language: :en
+    object: ffffff
+
+? &id007 !ruby/object:RDF::Literal
+  language: :en
+  object: Burnley F.C.
+:
+  :founded: !ruby/object:RDF::Literal
+    language: :en
+    object: "1882"
+  :socks: !ruby/object:RDF::Literal
+    language: :en
+    object: 9B093F
+  :clubname: *id007
+  :club: !ruby/object:RDF::URI
+    uri: !ruby/object:Addressable::URI
+      authority: dbpedia.org
+      fragment:
+      hash: 1446369903
+      host: dbpedia.org
+      normalized_host:
+      normalized_path:
+      normalized_scheme:
+      password:
+      path: /resource/Burnley_F.C.
+      port:
+      query:
+      scheme: http
+      uri_string: http://dbpedia.org/resource/Burnley_F.C.
+      user:
+      userinfo:
+      validation_deferred: false
+  :body: !ruby/object:RDF::Literal
+    language: :en
+    object: FFFFFF
+  :leftarm: !ruby/object:RDF::Literal
+    language: :en
+    object: 3BB9FF
+  :nickname: !ruby/object:RDF::Literal
+    language: :en
+    object: The Clarets
+  :rightarm: !ruby/object:RDF::Literal
+    language: :en
+    object: 3BB9FF
+  :homepage: !ruby/object:RDF::URI
+    uri: !ruby/object:Addressable::URI
+      authority: www.burnleyfootballclub.com
+      fragment:
+      hash: 1968511660
+      host: www.burnleyfootballclub.com
+      normalized_host:
+      normalized_path:
+      normalized_scheme:
+      password:
+      path: /
+      port:
+      query:
+      scheme: http
+      uri_string: http://www.burnleyfootballclub.com/
+      user:
+      userinfo:
+      validation_deferred: false
+  :shorts: !ruby/object:RDF::Literal
+    language: :en
+    object: 3BB9FF
+
+? &id008 !ruby/object:RDF::Literal
+  language: :en
+  object: Blackburn Rovers
+:
+  :founded: !ruby/object:RDF::Literal
+    language: :en
+    object: "1875"
+  :socks: !ruby/object:RDF::Literal
+    language: :en
+    object: FF0000
+  :clubname: *id008
+  :club: !ruby/object:RDF::URI
+    uri: !ruby/object:Addressable::URI
+      authority: dbpedia.org
+      fragment:
+      hash: 1518830655
+      host: dbpedia.org
+      normalized_host:
+      normalized_path:
+      normalized_scheme:
+      password:
+      path: /resource/Blackburn_Rovers_F.C.
+      port:
+      query:
+      scheme: http
+      uri_string: http://dbpedia.org/resource/Blackburn_Rovers_F.C.
+      user:
+      userinfo:
+      validation_deferred: false
+  :body: !ruby/object:RDF::Literal
+    language: :en
+    object: 0000CC
+  :leftarm: !ruby/object:RDF::Literal
+    language: :en
+    object: 0000CC
+  :nickname: !ruby/object:RDF::Literal
+    language: :en
+    object: Rovers, Blue and Whites, The Riversiders
+  :rightarm: !ruby/object:RDF::Literal
+    language: :en
+    object: FF0000
+  :homepage: !ruby/object:RDF::URI
+    uri: !ruby/object:Addressable::URI
+      authority: www.rovers.co.uk
+      fragment:
+      hash: -1883469060
+      host: www.rovers.co.uk
+      normalized_host:
+      normalized_path:
+      normalized_scheme:
+      password:
+      path: ""
+      port:
+      query:
+      scheme: http
+      uri_string: http://www.rovers.co.uk
+      user:
+      userinfo:
+      validation_deferred: false
+  :shorts: !ruby/object:RDF::Literal
+    language: :en
+    object: ffffFF
+
+? &id009 !ruby/object:RDF::Literal
+  language: :en
+  object: Leicester City
+:
+  :founded: !ruby/object:RDF::Literal
+    language: :en
+    object: "1884"
+  :socks: !ruby/object:RDF::Literal
+    language: :en
+    object: 2B55DB
+  :clubname: *id009
+  :club: !ruby/object:RDF::URI
+    uri: !ruby/object:Addressable::URI
+      authority: dbpedia.org
+      fragment:
+      hash: 2066015151
+      host: dbpedia.org
+      normalized_host:
+      normalized_path:
+      normalized_scheme:
+      password:
+      path: /resource/Leicester_City_F.C.
+      port:
+      query:
+      scheme: http
+      uri_string: http://dbpedia.org/resource/Leicester_City_F.C.
+      user:
+      userinfo:
+      validation_deferred: false
+  :body: !ruby/object:RDF::Literal
+    language: :en
+    object: 2B55DB
+  :leftarm: !ruby/object:RDF::Literal
+    language: :en
+    object: 2B55DB
+  :nickname: !ruby/object:RDF::Literal
+    language: :en
+    object: The Foxes, Fosse, City, Blue Army
+  :rightarm: !ruby/object:RDF::Literal
+    language: :en
+    object: 2B55DB
+  :homepage: !ruby/object:RDF::URI
+    uri: !ruby/object:Addressable::URI
+      authority: www.lcfc.com
+      fragment:
+      hash: 1104944264
+      host: www.lcfc.com
+      normalized_host:
+      normalized_path:
+      normalized_scheme:
+      password:
+      path: ""
+      port:
+      query:
+      scheme: http
+      uri_string: http://www.lcfc.com
+      user:
+      userinfo:
+      validation_deferred: false
+  :shorts: !ruby/object:RDF::Literal
+    language: :en
+    object: fee600
+
+? &id010 !ruby/object:RDF::Literal
+  language: :en
+  object: Arsenal
+:
+  :founded: !ruby/object:RDF::Literal
+    language: :en
+    object: 1886 as Dial Square
+  :socks: !ruby/object:RDF::Literal
+    language: :en
+    object: FFFF00
+  :clubname: *id010
+  :club: !ruby/object:RDF::URI
+    uri: !ruby/object:Addressable::URI
+      authority: dbpedia.org
+      fragment:
+      hash: 2112358819
+      host: dbpedia.org
+      normalized_host:
+      normalized_path:
+      normalized_scheme:
+      password:
+      path: /resource/Arsenal_F.C.
+      port:
+      query:
+      scheme: http
+      uri_string: http://dbpedia.org/resource/Arsenal_F.C.
+      user:
+      userinfo:
+      validation_deferred: false
+  :body: !ruby/object:RDF::Literal
+    language: :en
+    object: FFFF00
+  :leftarm: !ruby/object:RDF::Literal
+    language: :en
+    object: FFFF00
+  :nickname: !ruby/object:RDF::Literal
+    language: :en
+    object: The Gunners
+  :rightarm: !ruby/object:RDF::Literal
+    language: :en
+    object: FFFF00
+  :homepage: !ruby/object:RDF::URI
+    uri: !ruby/object:Addressable::URI
+      authority: www.arsenal.com
+      fragment:
+      hash: -1435648416
+      host: www.arsenal.com
+      normalized_host:
+      normalized_path:
+      normalized_scheme:
+      password:
+      path: /
+      port:
+      query:
+      scheme: http
+      uri_string: http://www.arsenal.com/
+      user:
+      userinfo:
+      validation_deferred: false
+  :shorts: !ruby/object:RDF::Literal
+    language: :en
+    object: 6F1225
+
+? &id011 !ruby/object:RDF::Literal
+  language: :en
+  object: Wolverhampton Wanderers
+:
+  :founded: !ruby/object:RDF::Literal
+    language: :en
+    object: "1877"
+  :socks: !ruby/object:RDF::Literal
+    language: :en
+    object: 153E7E
+  :clubname: *id011
+  :club: !ruby/object:RDF::URI
+    uri: !ruby/object:Addressable::URI
+      authority: dbpedia.org
+      fragment:
+      hash: -1196665320
+      host: dbpedia.org
+      normalized_host:
+      normalized_path:
+      normalized_scheme:
+      password:
+      path: /resource/Wolverhampton_Wanderers_F.C.
+      port:
+      query:
+      scheme: http
+      uri_string: http://dbpedia.org/resource/Wolverhampton_Wanderers_F.C.
+      user:
+      userinfo:
+      validation_deferred: false
+  :body: !ruby/object:RDF::Literal
+    language: :en
+    object: febd11
+  :leftarm: !ruby/object:RDF::Literal
+    language: :en
+    object: FFFlFF
+  :nickname: !ruby/object:RDF::Literal
+    language: :en
+    object: Wolves, The Wanderers
+  :rightarm: !ruby/object:RDF::Literal
+    language: :en
+    object: FFFlFF
+  :homepage: !ruby/object:RDF::URI
+    uri: !ruby/object:Addressable::URI
+      authority: www.wolves.co.uk
+      fragment:
+      hash: 2118057316
+      host: www.wolves.co.uk
+      normalized_host:
+      normalized_path:
+      normalized_scheme:
+      password:
+      path: ""
+      port:
+      query:
+      scheme: http
+      uri_string: http://www.wolves.co.uk
+      user:
+      userinfo:
+      validation_deferred: false
+  :shorts: !ruby/object:RDF::Literal
+    language: :en
+    object: 153E7E
+
+? &id012 !ruby/object:RDF::Literal
+  language: :en
+  object: Middlesbrough
+:
+  :founded: !ruby/object:RDF::Literal
+    language: :en
+    object: "1876"
+  :socks: !ruby/object:RDF::Literal
+    language: :en
+    object: DD0000
+  :clubname: *id012
+  :club: !ruby/object:RDF::URI
+    uri: !ruby/object:Addressable::URI
+      authority: dbpedia.org
+      fragment:
+      hash: -336950455
+      host: dbpedia.org
+      normalized_host:
+      normalized_path:
+      normalized_scheme:
+      password:
+      path: /resource/Middlesbrough_F.C.
+      port:
+      query:
+      scheme: http
+      uri_string: http://dbpedia.org/resource/Middlesbrough_F.C.
+      user:
+      userinfo:
+      validation_deferred: false
+  :body: !ruby/object:RDF::Literal
+    language: :en
+    object: DD0000
+  :leftarm: !ruby/object:RDF::Literal
+    language: :en
+    object: DD0000
+  :nickname: !ruby/object:RDF::Literal
+    language: :en
+    object: The Boro,
+  :rightarm: !ruby/object:RDF::Literal
+    language: :en
+    object: DD0000
+  :homepage: !ruby/object:RDF::URI
+    uri: !ruby/object:Addressable::URI
+      authority: www.mfc.co.uk
+      fragment:
+      hash: 717614458
+      host: www.mfc.co.uk
+      normalized_host:
+      normalized_path:
+      normalized_scheme:
+      password:
+      path: ""
+      port:
+      query:
+      scheme: http
+      uri_string: http://www.mfc.co.uk
+      user:
+      userinfo:
+      validation_deferred: false
+  :shorts: !ruby/object:RDF::Literal
+    language: :en
+    object: DD0000
+
+? &id013 !ruby/object:RDF::Literal
+  language: :en
+  object: Birmingham City
+:
+  :founded: !ruby/object:RDF::Literal
+    language: :en
+    object: as Small Heath Alliance
+  :socks: !ruby/object:RDF::Literal
+    language: :en
+    object: FF0000
+  :clubname: *id013
+  :club: !ruby/object:RDF::URI
+    uri: !ruby/object:Addressable::URI
+      authority: dbpedia.org
+      fragment:
+      hash: -235321641
+      host: dbpedia.org
+      normalized_host:
+      normalized_path:
+      normalized_scheme:
+      password:
+      path: /resource/Birmingham_City_F.C.
+      port:
+      query:
+      scheme: http
+      uri_string: http://dbpedia.org/resource/Birmingham_City_F.C.
+      user:
+      userinfo:
+      validation_deferred: false
+  :body: !ruby/object:RDF::Literal
+    language: :en
+    object: FF0000
+  :leftarm: !ruby/object:RDF::Literal
+    language: :en
+    object: FF0000
+  :nickname: !ruby/object:RDF::Literal
+    language: :en
+    object: Blues
+  :rightarm: !ruby/object:RDF::Literal
+    language: :en
+    object: FF0000
+  :homepage: !ruby/object:RDF::URI
+    uri: !ruby/object:Addressable::URI
+      authority: www.bcfc.com
+      fragment:
+      hash: -1685940854
+      host: www.bcfc.com
+      normalized_host:
+      normalized_path:
+      normalized_scheme:
+      password:
+      path: ""
+      port:
+      query:
+      scheme: http
+      uri_string: http://www.bcfc.com
+      user:
+      userinfo:
+      validation_deferred: false
+  :shorts: !ruby/object:RDF::Literal
+    language: :en
+    object: FFFFFF
+
+? &id014 !ruby/object:RDF::Literal
+  language: :en
+  object: Manchester City
+:
+  :founded: !ruby/object:RDF::Literal
+    language: :en
+    object: St Mark's
+  :socks: !ruby/object:RDF::Literal
+    language: :en
+    object: 88CCFF
+  :clubname: *id014
+  :club: !ruby/object:RDF::URI
+    uri: !ruby/object:Addressable::URI
+      authority: dbpedia.org
+      fragment:
+      hash: -841021164
+      host: dbpedia.org
+      normalized_host:
+      normalized_path:
+      normalized_scheme:
+      password:
+      path: /resource/Manchester_City_F.C.
+      port:
+      query:
+      scheme: http
+      uri_string: http://dbpedia.org/resource/Manchester_City_F.C.
+      user:
+      userinfo:
+      validation_deferred: false
+  :body: !ruby/object:RDF::Literal
+    language: :en
+    object: 88CCFF
+  :leftarm: !ruby/object:RDF::Literal
+    language: :en
+    object: 88CCFF
+  :nickname: !ruby/object:RDF::Literal
+    language: :en
+    object: The Citizens, The Blues, City
+  :rightarm: !ruby/object:RDF::Literal
+    language: :en
+    object: 88CCFF
+  :homepage: !ruby/object:RDF::URI
+    uri: !ruby/object:Addressable::URI
+      authority: www.mcfc.co.uk
+      fragment:
+      hash: -76208856
+      host: www.mcfc.co.uk
+      normalized_host:
+      normalized_path:
+      normalized_scheme:
+      password:
+      path: /
+      port:
+      query:
+      scheme: http
+      uri_string: http://www.mcfc.co.uk/
+      user:
+      userinfo:
+      validation_deferred: false
+  :shorts: !ruby/object:RDF::Literal
+    language: :en
+    object: FFFFFF
+
+? &id015 !ruby/object:RDF::Literal
+  language: :en
+  object: Norwich City
+:
+  :founded: !ruby/object:RDF::Literal
+    language: :en
+    object: "1902-06-17"
+  :socks: !ruby/object:RDF::Literal
+    language: :en
+    object: FFFF00
+  :clubname: *id015
+  :club: !ruby/object:RDF::URI
+    uri: !ruby/object:Addressable::URI
+      authority: dbpedia.org
+      fragment:
+      hash: 764037334
+      host: dbpedia.org
+      normalized_host:
+      normalized_path:
+      normalized_scheme:
+      password:
+      path: /resource/Norwich_City_F.C.
+      port:
+      query:
+      scheme: http
+      uri_string: http://dbpedia.org/resource/Norwich_City_F.C.
+      user:
+      userinfo:
+      validation_deferred: false
+  :body: !ruby/object:RDF::Literal
+    language: :en
+    object: FFFF00
+  :leftarm: !ruby/object:RDF::Literal
+    language: :en
+    object: FFFF00
+  :nickname: !ruby/object:RDF::Literal
+    language: :en
+    object: The Canaries
+  :rightarm: !ruby/object:RDF::Literal
+    language: :en
+    object: FFFF00
+  :homepage: !ruby/object:RDF::URI
+    uri: !ruby/object:Addressable::URI
+      authority: www.canaries.co.uk
+      fragment:
+      hash: 649163487
+      host: www.canaries.co.uk
+      normalized_host:
+      normalized_path:
+      normalized_scheme:
+      password:
+      path: /
+      port:
+      query:
+      scheme: http
+      uri_string: http://www.canaries.co.uk/
+      user:
+      userinfo:
+      validation_deferred: false
+  :shorts: !ruby/object:RDF::Literal
+    language: :en
+    object: 228B22
+
+? &id016 !ruby/object:RDF::Literal
+  language: :en
+  object: Derby County
+:
+  :founded: !ruby/object:RDF::Literal
+    language: :en
+    object: "1884-02-05"
+  :socks: !ruby/object:RDF::Literal
+    language: :en
+    object: 87CEEB
+  :clubname: *id016
+  :club: !ruby/object:RDF::URI
+    uri: !ruby/object:Addressable::URI
+      authority: dbpedia.org
+      fragment:
+      hash: -251296272
+      host: dbpedia.org
+      normalized_host:
+      normalized_path:
+      normalized_scheme:
+      password:
+      path: /resource/Derby_County_F.C.
+      port:
+      query:
+      scheme: http
+      uri_string: http://dbpedia.org/resource/Derby_County_F.C.
+      user:
+      userinfo:
+      validation_deferred: false
+  :body: !ruby/object:RDF::Literal
+    language: :en
+    object: D2691E
+  :leftarm: !ruby/object:RDF::Literal
+    language: :en
+    object: AAD0FF
+  :nickname: !ruby/object:RDF::Literal
+    language: :en
+    object: The Rams
+  :rightarm: !ruby/object:RDF::Literal
+    language: :en
+    object: AAD0FF
+  :homepage: !ruby/object:RDF::URI
+    uri: !ruby/object:Addressable::URI
+      authority: www.dcfc.co.uk
+      fragment:
+      hash: -1817225091
+      host: www.dcfc.co.uk
+      normalized_host:
+      normalized_path:
+      normalized_scheme:
+      password:
+      path: /
+      port:
+      query:
+      scheme: http
+      uri_string: http://www.dcfc.co.uk/
+      user:
+      userinfo:
+      validation_deferred: false
+  :shorts: !ruby/object:RDF::Literal
+    language: :en
+    object: 0a2ac3
+
+? &id017 !ruby/object:RDF::Literal
+  language: :en
+  object: Sheffield Wednesday
+:
+  :founded: !ruby/object:RDF::Literal
+    language: :en
+    object: "1867-09-04"
+  :socks: !ruby/object:RDF::Literal
+    language: :en
+    object: 0000CD
+  :clubname: *id017
+  :club: !ruby/object:RDF::URI
+    uri: !ruby/object:Addressable::URI
+      authority: dbpedia.org
+      fragment:
+      hash: -1656924709
+      host: dbpedia.org
+      normalized_host:
+      normalized_path:
+      normalized_scheme:
+      password:
+      path: /resource/Sheffield_Wednesday_F.C.
+      port:
+      query:
+      scheme: http
+      uri_string: http://dbpedia.org/resource/Sheffield_Wednesday_F.C.
+      user:
+      userinfo:
+      validation_deferred: false
+  :body: !ruby/object:RDF::Literal
+    language: :en
+    object: 0000CD
+  :leftarm: !ruby/object:RDF::Literal
+    language: :en
+    object: 0000CD
+  :nickname: !ruby/object:RDF::Literal
+    language: :en
+    object: The Owls, The Wednesday
+  :rightarm: !ruby/object:RDF::Literal
+    language: :en
+    object: 0000CD
+  :homepage: !ruby/object:RDF::URI
+    uri: !ruby/object:Addressable::URI
+      authority: www.swfc.co.uk
+      fragment:
+      hash: -38842142
+      host: www.swfc.co.uk
+      normalized_host:
+      normalized_path:
+      normalized_scheme:
+      password:
+      path: ""
+      port:
+      query:
+      scheme: http
+      uri_string: http://www.swfc.co.uk
+      user:
+      userinfo:
+      validation_deferred: false
+  :shorts: !ruby/object:RDF::Literal
+    language: :en
+    object: FFFFFF
+
+? &id018 !ruby/object:RDF::Literal
+  language: :en
+  object: Swindon Town
+:
+  :founded: !ruby/object:RDF::Literal
+    language: :en
+    object: "1879"
+  :socks: !ruby/object:RDF::Literal
+    language: :en
+    object: 0000CD
+  :clubname: *id018
+  :club: !ruby/object:RDF::URI
+    uri: !ruby/object:Addressable::URI
+      authority: dbpedia.org
+      fragment:
+      hash: -1582632145
+      host: dbpedia.org
+      normalized_host:
+      normalized_path:
+      normalized_scheme:
+      password:
+      path: /resource/Swindon_Town_F.C.
+      port:
+      query:
+      scheme: http
+      uri_string: http://dbpedia.org/resource/Swindon_Town_F.C.
+      user:
+      userinfo:
+      validation_deferred: false
+  :body: !ruby/object:RDF::Literal
+    language: :en
+    object: 0000CD
+  :leftarm: !ruby/object:RDF::Literal
+    language: :en
+    object: FF1000
+  :nickname: !ruby/object:RDF::Literal
+    language: :en
+    object: The Robins, Town
+  :rightarm: !ruby/object:RDF::Literal
+    language: :en
+    object: 0000CD
+  :homepage: !ruby/object:RDF::URI
+    uri: !ruby/object:Addressable::URI
+      authority: www.swindontownfc.co.uk
+      fragment:
+      hash: 1970725538
+      host: www.swindontownfc.co.uk
+      normalized_host:
+      normalized_path:
+      normalized_scheme:
+      password:
+      path: ""
+      port:
+      query:
+      scheme: http
+      uri_string: http://www.swindontownfc.co.uk
+      user:
+      userinfo:
+      validation_deferred: false
+  :shorts: !ruby/object:RDF::Literal
+    language: :en
+    object: 0000CD
+
+? &id019 !ruby/object:RDF::Literal
+  language: :en
+  object: Barnsley F.C
+:
+  :founded: !ruby/object:RDF::Literal
+    language: :en
+    object: "1887"
+  :socks: !ruby/object:RDF::Literal
+    language: :en
+    object: FF0000
+  :clubname: *id019
+  :club: !ruby/object:RDF::URI
+    uri: !ruby/object:Addressable::URI
+      authority: dbpedia.org
+      fragment:
+      hash: -174841997
+      host: dbpedia.org
+      normalized_host:
+      normalized_path:
+      normalized_scheme:
+      password:
+      path: /resource/Barnsley_F.C.
+      port:
+      query:
+      scheme: http
+      uri_string: http://dbpedia.org/resource/Barnsley_F.C.
+      user:
+      userinfo:
+      validation_deferred: false
+  :body: !ruby/object:RDF::Literal
+    language: :en
+    object: FF0000
+  :leftarm: !ruby/object:RDF::Literal
+    language: :en
+    object: FF0000
+  :nickname: !ruby/object:RDF::Literal
+    language: :en
+    object: The Tykes, The Reds
+  :rightarm: !ruby/object:RDF::Literal
+    language: :en
+    object: FF0000
+  :homepage: !ruby/object:RDF::URI
+    uri: !ruby/object:Addressable::URI
+      authority: www.barnsleyfc.co.uk
+      fragment:
+      hash: -243615214
+      host: www.barnsleyfc.co.uk
+      normalized_host:
+      normalized_path:
+      normalized_scheme:
+      password:
+      path: /page/Home/
+      port:
+      query:
+      scheme: http
+      uri_string: http://www.barnsleyfc.co.uk/page/Home/
+      user:
+      userinfo:
+      validation_deferred: false
+  :shorts: !ruby/object:RDF::Literal
+    language: :en
+    object: FFFFFF
+
+? &id020 !ruby/object:RDF::Literal
+  language: :en
+  object: Bradford City A.F.C.
+:
+  :founded: !ruby/object:RDF::Literal
+    language: :en
+    object: "1903"
+  :socks: !ruby/object:RDF::Literal
+    language: :en
+    object: 98285c
+  :clubname: *id020
+  :club: !ruby/object:RDF::URI
+    uri: !ruby/object:Addressable::URI
+      authority: dbpedia.org
+      fragment:
+      hash: 37898650
+      host: dbpedia.org
+      normalized_host:
+      normalized_path:
+      normalized_scheme:
+      password:
+      path: /resource/Bradford_City_A.F.C.
+      port:
+      query:
+      scheme: http
+      uri_string: http://dbpedia.org/resource/Bradford_City_A.F.C.
+      user:
+      userinfo:
+      validation_deferred: false
+  :body: !ruby/object:RDF::Literal
+    language: :en
+    object: FFD700
+  :leftarm: !ruby/object:RDF::Literal
+    language: :en
+    object: FFD700
+  :nickname: !ruby/object:RDF::Literal
+    language: :en
+    object: The Bantams
+  :rightarm: !ruby/object:RDF::Literal
+    language: :en
+    object: FFD700
+  :homepage: !ruby/object:RDF::URI
+    uri: !ruby/object:Addressable::URI
+      authority: www.bradfordcityfc.co.uk
+      fragment:
+      hash: 366621480
+      host: www.bradfordcityfc.co.uk
+      normalized_host:
+      normalized_path:
+      normalized_scheme:
+      password:
+      path: /
+      port:
+      query:
+      scheme: http
+      uri_string: http://www.bradfordcityfc.co.uk/
+      user:
+      userinfo:
+      validation_deferred: false
+  :shorts: !ruby/object:RDF::Literal
+    language: :en
+    object: 98285c
+
+? &id021 !ruby/object:RDF::Literal
+  language: :en
+  object: Fulham
+:
+  :founded: !ruby/object:RDF::Literal
+    language: :en
+    object: "1879"
+  :socks: !ruby/object:RDF::Literal
+    language: :en
+    object: FFFFFF
+  :clubname: *id021
+  :club: !ruby/object:RDF::URI
+    uri: !ruby/object:Addressable::URI
+      authority: dbpedia.org
+      fragment:
+      hash: -835160761
+      host: dbpedia.org
+      normalized_host:
+      normalized_path:
+      normalized_scheme:
+      password:
+      path: /resource/Fulham_F.C.
+      port:
+      query:
+      scheme: http
+      uri_string: http://dbpedia.org/resource/Fulham_F.C.
+      user:
+      userinfo:
+      validation_deferred: false
+  :body: !ruby/object:RDF::Literal
+    language: :en
+    object: FF0000
+  :leftarm: !ruby/object:RDF::Literal
+    language: :en
+    object: FF0000
+  :nickname: !ruby/object:RDF::Literal
+    language: :en
+    object: The Cottagers, The Whites, The Lilywhites.
+  :rightarm: !ruby/object:RDF::Literal
+    language: :en
+    object: FF0000
+  :homepage: !ruby/object:RDF::URI
+    uri: !ruby/object:Addressable::URI
+      authority: www.fulhamfc.com
+      fragment:
+      hash: 2088141992
+      host: www.fulhamfc.com
+      normalized_host:
+      normalized_path:
+      normalized_scheme:
+      password:
+      path: /
+      port:
+      query:
+      scheme: http
+      uri_string: http://www.fulhamfc.com/
+      user:
+      userinfo:
+      validation_deferred: false
+  :shorts: !ruby/object:RDF::Literal
+    language: :en
+    object: "8000"
+
+? &id022 !ruby/object:RDF::Literal
+  language: :en
+  object: Nottingham Forest
+:
+  :founded: !ruby/object:RDF::Literal
+    language: :en
+    object: "1865"
+  :socks: !ruby/object:RDF::Literal
+    language: :en
+    object: 0000CD
+  :clubname: *id022
+  :club: !ruby/object:RDF::URI
+    uri: !ruby/object:Addressable::URI
+      authority: dbpedia.org
+      fragment:
+      hash: -151349063
+      host: dbpedia.org
+      normalized_host:
+      normalized_path:
+      normalized_scheme:
+      password:
+      path: /resource/Nottingham_Forest_F.C.
+      port:
+      query:
+      scheme: http
+      uri_string: http://dbpedia.org/resource/Nottingham_Forest_F.C.
+      user:
+      userinfo:
+      validation_deferred: false
+  :body: !ruby/object:RDF::Literal
+    language: :en
+    object: FF2020
+  :leftarm: !ruby/object:RDF::Literal
+    language: :en
+    object: FF2020
+  :nickname: !ruby/object:RDF::Literal
+    language: :en
+    object: Forest, The Reds, The Tricky Trees
+  :rightarm: !ruby/object:RDF::Literal
+    language: :en
+    object: FF2020
+  :homepage: !ruby/object:RDF::URI
+    uri: !ruby/object:Addressable::URI
+      authority: www.nottinghamforest.co.uk
+      fragment:
+      hash: -1314847854
+      host: www.nottinghamforest.co.uk
+      normalized_host:
+      normalized_path:
+      normalized_scheme:
+      password:
+      path: /
+      port:
+      query:
+      scheme: http
+      uri_string: http://www.nottinghamforest.co.uk/
+      user:
+      userinfo:
+      validation_deferred: false
+  :shorts: !ruby/object:RDF::Literal
+    language: :en
+    object: 0000CD
+
+? &id023 !ruby/object:RDF::Literal
+  language: :en
+  object: Manchester United
+:
+  :founded: !ruby/object:RDF::Literal
+    language: :en
+    object: 1878, as Newton Heath LYR F.C.
+  :socks: !ruby/object:RDF::Literal
+    language: :en
+    object: FFFFFF
+  :clubname: *id023
+  :club: !ruby/object:RDF::URI
+    uri: !ruby/object:Addressable::URI
+      authority: dbpedia.org
+      fragment:
+      hash: -748692057
+      host: dbpedia.org
+      normalized_host:
+      normalized_path:
+      normalized_scheme:
+      password:
+      path: /resource/Manchester_United_F.C.
+      port:
+      query:
+      scheme: http
+      uri_string: http://dbpedia.org/resource/Manchester_United_F.C.
+      user:
+      userinfo:
+      validation_deferred: false
+  :body: !ruby/object:RDF::Literal
+    language: :en
+    object: FFFFFF
+  :leftarm: !ruby/object:RDF::Literal
+    language: :en
+    object: FFFFFF
+  :nickname: !ruby/object:RDF::Literal
+    language: :en
+    object: The Red Devils
+  :rightarm: !ruby/object:RDF::Literal
+    language: :en
+    object: FFFFFF
+  :homepage: !ruby/object:RDF::URI
+    uri: !ruby/object:Addressable::URI
+      authority: www.manutd.com
+      fragment:
+      hash: 1252002799
+      host: www.manutd.com
+      normalized_host:
+      normalized_path:
+      normalized_scheme:
+      password:
+      path: /
+      port:
+      query:
+      scheme: http
+      uri_string: http://www.manutd.com/
+      user:
+      userinfo:
+      validation_deferred: false
+  :shorts: !ruby/object:RDF::Literal
+    language: :en
+    object: 005DC4
+
+? &id024 !ruby/object:RDF::Literal
+  language: :en
+  object: Charlton Athletic
+:
+  :founded: !ruby/object:RDF::Literal
+    language: :en
+    object: "1905-06-09"
+  :socks: !ruby/object:RDF::Literal
+    language: :en
+    object: ff0000
+  :clubname: *id024
+  :club: !ruby/object:RDF::URI
+    uri: !ruby/object:Addressable::URI
+      authority: dbpedia.org
+      fragment:
+      hash: 1265706009
+      host: dbpedia.org
+      normalized_host:
+      normalized_path:
+      normalized_scheme:
+      password:
+      path: /resource/Charlton_Athletic_F.C.
+      port:
+      query:
+      scheme: http
+      uri_string: http://dbpedia.org/resource/Charlton_Athletic_F.C.
+      user:
+      userinfo:
+      validation_deferred: false
+  :body: !ruby/object:RDF::Literal
+    language: :en
+    object: ff0000
+  :leftarm: !ruby/object:RDF::Literal
+    language: :en
+    object: ff0000
+  :nickname: !ruby/object:RDF::Literal
+    language: :en
+    object: The Addicks
+  :rightarm: !ruby/object:RDF::Literal
+    language: :en
+    object: ff0000
+  :homepage: !ruby/object:RDF::URI
+    uri: !ruby/object:Addressable::URI
+      authority: www.cafc.co.uk
+      fragment:
+      hash: 958323880
+      host: www.cafc.co.uk
+      normalized_host:
+      normalized_path:
+      normalized_scheme:
+      password:
+      path: ""
+      port:
+      query:
+      scheme: http
+      uri_string: http://www.cafc.co.uk
+      user:
+      userinfo:
+      validation_deferred: false
+  :shorts: !ruby/object:RDF::Literal
+    language: :en
+    object: fff
+
+? &id025 !ruby/object:RDF::Literal
+  language: :en
+  object: Coventry City
+:
+  :founded: !ruby/object:RDF::Literal
+    language: :en
+    object: "1883-08-13"
+  :socks: !ruby/object:RDF::Literal
+    language: :en
+    object: 75B2DD
+  :clubname: *id025
+  :club: !ruby/object:RDF::URI
+    uri: !ruby/object:Addressable::URI
+      authority: dbpedia.org
+      fragment:
+      hash: 1235892687
+      host: dbpedia.org
+      normalized_host:
+      normalized_path:
+      normalized_scheme:
+      password:
+      path: /resource/Coventry_City_F.C.
+      port:
+      query:
+      scheme: http
+      uri_string: http://dbpedia.org/resource/Coventry_City_F.C.
+      user:
+      userinfo:
+      validation_deferred: false
+  :body: !ruby/object:RDF::Literal
+    language: :en
+    object: 75B2DD
+  :leftarm: !ruby/object:RDF::Literal
+    language: :en
+    object: 75B2DD
+  :nickname: !ruby/object:RDF::Literal
+    language: :en
+    object: The Sky Blues
+  :rightarm: !ruby/object:RDF::Literal
+    language: :en
+    object: 75B2DD
+  :homepage: !ruby/object:RDF::URI
+    uri: !ruby/object:Addressable::URI
+      authority: www.ccfc.co.uk
+      fragment:
+      hash: -42144661
+      host: www.ccfc.co.uk
+      normalized_host:
+      normalized_path:
+      normalized_scheme:
+      password:
+      path: /
+      port:
+      query:
+      scheme: http
+      uri_string: http://www.ccfc.co.uk/
+      user:
+      userinfo:
+      validation_deferred: false
+  :shorts: !ruby/object:RDF::Literal
+    language: :en
+    object: FFFFFF
+
+? &id026 !ruby/object:RDF::Literal
+  language: :en
+  object: Watford
+:
+  :founded: !ruby/object:RDF::Literal
+    language: :en
+    object: "1881"
+  :socks: !ruby/object:RDF::Literal
+    language: :en
+    object: f1ef00
+  :clubname: *id026
+  :club: !ruby/object:RDF::URI
+    uri: !ruby/object:Addressable::URI
+      authority: dbpedia.org
+      fragment:
+      hash: 2126283910
+      host: dbpedia.org
+      normalized_host:
+      normalized_path:
+      normalized_scheme:
+      password:
+      path: /resource/Watford_F.C.
+      port:
+      query:
+      scheme: http
+      uri_string: http://dbpedia.org/resource/Watford_F.C.
+      user:
+      userinfo:
+      validation_deferred: false
+  :body: !ruby/object:RDF::Literal
+    language: :en
+    object: f1ef00
+  :leftarm: !ruby/object:RDF::Literal
+    language: :en
+    object: F1EF00
+  :nickname: !ruby/object:RDF::Literal
+    language: :en
+    object: The Hornets, The Golden Boys, Yellow Army, The Horns
+  :rightarm: !ruby/object:RDF::Literal
+    language: :en
+    object: F1EF00
+  :homepage: !ruby/object:RDF::URI
+    uri: !ruby/object:Addressable::URI
+      authority: www.watfordfc.com
+      fragment:
+      hash: 207519738
+      host: www.watfordfc.com
+      normalized_host:
+      normalized_path:
+      normalized_scheme:
+      password:
+      path: /
+      port:
+      query:
+      scheme: http
+      uri_string: http://www.watfordfc.com/
+      user:
+      userinfo:
+      validation_deferred: false
+  :shorts: !ruby/object:RDF::Literal
+    language: :en
+    object: ffffff
+
+? &id027 !ruby/object:RDF::Literal
+  language: :en
+  object: Sunderland
+:
+  :founded: !ruby/object:RDF::Literal
+    language: :en
+    object: "1879"
+  :socks: !ruby/object:RDF::Literal
+    language: :en
+    object: FF0000
+  :clubname: *id027
+  :club: !ruby/object:RDF::URI
+    uri: !ruby/object:Addressable::URI
+      authority: dbpedia.org
+      fragment:
+      hash: -1543423612
+      host: dbpedia.org
+      normalized_host:
+      normalized_path:
+      normalized_scheme:
+      password:
+      path: /resource/Sunderland_A.F.C.
+      port:
+      query:
+      scheme: http
+      uri_string: http://dbpedia.org/resource/Sunderland_A.F.C.
+      user:
+      userinfo:
+      validation_deferred: false
+  :body: !ruby/object:RDF::Literal
+    language: :en
+    object: FF0000
+  :leftarm: !ruby/object:RDF::Literal
+    language: :en
+    object: FFFFFF
+  :nickname: !ruby/object:RDF::Literal
+    language: :en
+    object: The Black Cats, The Mackems
+  :rightarm: !ruby/object:RDF::Literal
+    language: :en
+    object: FFFFFF
+  :homepage: !ruby/object:RDF::URI
+    uri: !ruby/object:Addressable::URI
+      authority: www.safc.com
+      fragment:
+      hash: -1963669214
+      host: www.safc.com
+      normalized_host:
+      normalized_path:
+      normalized_scheme:
+      password:
+      path: /page/Home
+      port:
+      query:
+      scheme: http
+      uri_string: http://www.safc.com/page/Home
+      user:
+      userinfo:
+      validation_deferred: false
+  :shorts: !ruby/object:RDF::Literal
+    language: :en
+    object: "770000"
+
+? &id028 !ruby/object:RDF::Literal
+  language: :en
+  object: West Bromwich Albion
+:
+  :founded: !ruby/object:RDF::Literal
+    language: :en
+    object: "1878"
+  :socks: !ruby/object:RDF::Literal
+    language: :en
+    object: FF0000
+  :clubname: *id028
+  :club: !ruby/object:RDF::URI
+    uri: !ruby/object:Addressable::URI
+      authority: dbpedia.org
+      fragment:
+      hash: -431597982
+      host: dbpedia.org
+      normalized_host:
+      normalized_path:
+      normalized_scheme:
+      password:
+      path: /resource/West_Bromwich_Albion_F.C.
+      port:
+      query:
+      scheme: http
+      uri_string: http://dbpedia.org/resource/West_Bromwich_Albion_F.C.
+      user:
+      userinfo:
+      validation_deferred: false
+  :body: !ruby/object:RDF::Literal
+    language: :en
+    object: FFFF00
+  :leftarm: !ruby/object:RDF::Literal
+    language: :en
+    object: FFFF00
+  :nickname: !ruby/object:RDF::Literal
+    language: :en
+    object: Albion, The Baggies, The Throstles, West Brom
+  :rightarm: !ruby/object:RDF::Literal
+    language: :en
+    object: FFFF00
+  :homepage: !ruby/object:RDF::URI
+    uri: !ruby/object:Addressable::URI
+      authority: www.wba.co.uk
+      fragment:
+      hash: 606994222
+      host: www.wba.co.uk
+      normalized_host:
+      normalized_path:
+      normalized_scheme:
+      password:
+      path: ""
+      port:
+      query:
+      scheme: http
+      uri_string: http://www.wba.co.uk
+      user:
+      userinfo:
+      validation_deferred: false
+  :shorts: !ruby/object:RDF::Literal
+    language: :en
+    object: FFFFFF
+
+? &id029 !ruby/object:RDF::Literal
+  language: :en
+  object: Southampton
+:
+  :founded: !ruby/object:RDF::Literal
+    language: :en
+    object: 1885, as St. Mary's YMA
+  :socks: !ruby/object:RDF::Literal
+    language: :en
+    object: FF0000
+  :clubname: *id029
+  :club: !ruby/object:RDF::URI
+    uri: !ruby/object:Addressable::URI
+      authority: dbpedia.org
+      fragment:
+      hash: 2083446135
+      host: dbpedia.org
+      normalized_host:
+      normalized_path:
+      normalized_scheme:
+      password:
+      path: /resource/Southampton_F.C.
+      port:
+      query:
+      scheme: http
+      uri_string: http://dbpedia.org/resource/Southampton_F.C.
+      user:
+      userinfo:
+      validation_deferred: false
+  :body: !ruby/object:RDF::Literal
+    language: :en
+    object: FFFFFF
+  :leftarm: !ruby/object:RDF::Literal
+    language: :en
+    object: FFFFFF
+  :nickname: !ruby/object:RDF::Literal
+    language: :en
+    object: The Saints
+  :rightarm: !ruby/object:RDF::Literal
+    language: :en
+    object: FFFFFF
+  :homepage: !ruby/object:RDF::URI
+    uri: !ruby/object:Addressable::URI
+      authority: www.saintsfc.co.uk
+      fragment:
+      hash: 1617626080
+      host: www.saintsfc.co.uk
+      normalized_host:
+      normalized_path:
+      normalized_scheme:
+      password:
+      path: /page/Home/
+      port:
+      query:
+      scheme: http
+      uri_string: http://www.saintsfc.co.uk/page/Home/
+      user:
+      userinfo:
+      validation_deferred: false
+  :shorts: !ruby/object:RDF::Literal
+    language: :en
+    object: FFFFFF
+
+? &id030 !ruby/object:RDF::Literal
+  language: :en
+  object: Wigan Athletic
+:
+  :founded: !ruby/object:RDF::Literal
+    language: :en
+    object: "1932"
+  :socks: !ruby/object:RDF::Literal
+    language: :en
+    object: 1D59AF
+  :clubname: *id030
+  :club: !ruby/object:RDF::URI
+    uri: !ruby/object:Addressable::URI
+      authority: dbpedia.org
+      fragment:
+      hash: 902190113
+      host: dbpedia.org
+      normalized_host:
+      normalized_path:
+      normalized_scheme:
+      password:
+      path: /resource/Wigan_Athletic_F.C.
+      port:
+      query:
+      scheme: http
+      uri_string: http://dbpedia.org/resource/Wigan_Athletic_F.C.
+      user:
+      userinfo:
+      validation_deferred: false
+  :body: !ruby/object:RDF::Literal
+    language: :en
+    object: 1F24B4
+  :leftarm: !ruby/object:RDF::Literal
+    language: :en
+    object: 1F24B4
+  :nickname: !ruby/object:RDF::Literal
+    language: :en
+    object: Latics
+  :rightarm: !ruby/object:RDF::Literal
+    language: :en
+    object: 1F24B4
+  :homepage: !ruby/object:RDF::URI
+    uri: !ruby/object:Addressable::URI
+      authority: www.wiganlatics.co.uk
+      fragment:
+      hash: 207554098
+      host: www.wiganlatics.co.uk
+      normalized_host:
+      normalized_path:
+      normalized_scheme:
+      password:
+      path: ""
+      port:
+      query:
+      scheme: http
+      uri_string: http://www.wiganlatics.co.uk
+      user:
+      userinfo:
+      validation_deferred: false
+  :shorts: !ruby/object:RDF::Literal
+    language: :en
+    object: 1F24B4
+
+? &id031 !ruby/object:RDF::Literal
+  language: :en
+  object: Sheffield  United
+:
+  :founded: !ruby/object:RDF::Literal
+    language: :en
+    object: "1889"
+  :socks: !ruby/object:RDF::Literal
+    language: :en
+    object: red
+  :clubname: *id031
+  :club: !ruby/object:RDF::URI
+    uri: !ruby/object:Addressable::URI
+      authority: dbpedia.org
+      fragment:
+      hash: -882804438
+      host: dbpedia.org
+      normalized_host:
+      normalized_path:
+      normalized_scheme:
+      password:
+      path: /resource/Sheffield_United_F.C.
+      port:
+      query:
+      scheme: http
+      uri_string: http://dbpedia.org/resource/Sheffield_United_F.C.
+      user:
+      userinfo:
+      validation_deferred: false
+  :body: !ruby/object:RDF::Literal
+    language: :en
+    object: FF0000
+  :leftarm: !ruby/object:RDF::Literal
+    language: :en
+    object: FF0000
+  :nickname: !ruby/object:RDF::Literal
+    language: :en
+    object: The Blades
+  :rightarm: !ruby/object:RDF::Literal
+    language: :en
+    object: FF0000
+  :homepage: !ruby/object:RDF::URI
+    uri: !ruby/object:Addressable::URI
+      authority: www.sufc.co.uk
+      fragment:
+      hash: 482949097
+      host: www.sufc.co.uk
+      normalized_host:
+      normalized_path:
+      normalized_scheme:
+      password:
+      path: /
+      port:
+      query:
+      scheme: http
+      uri_string: http://www.sufc.co.uk/
+      user:
+      userinfo:
+      validation_deferred: false
+  :shorts: !ruby/object:RDF::Literal
+    language: :en
+    object: red
+
+? &id032 !ruby/object:RDF::Literal
+  language: :en
+  object: Wimbledon
+:
+  :founded: !ruby/object:RDF::Literal
+    language: :en
+    object: "1889"
+  :socks: !ruby/object:RDF::Literal
+    language: :en
+    object: 0000ff
+  :clubname: *id032
+  :club: !ruby/object:RDF::URI
+    uri: !ruby/object:Addressable::URI
+      authority: dbpedia.org
+      fragment:
+      hash: 583917892
+      host: dbpedia.org
+      normalized_host:
+      normalized_path:
+      normalized_scheme:
+      password:
+      path: /resource/Wimbledon_F.C.
+      port:
+      query:
+      scheme: http
+      uri_string: http://dbpedia.org/resource/Wimbledon_F.C.
+      user:
+      userinfo:
+      validation_deferred: false
+  :body: !ruby/object:RDF::Literal
+    language: :en
+    object: 0000ff
+  :leftarm: !ruby/object:RDF::Literal
+    language: :en
+    object: 0000ff
+  :nickname: !ruby/object:RDF::Literal
+    language: :en
+    object: The Dons; Wombles;
+  :rightarm: !ruby/object:RDF::Literal
+    language: :en
+    object: 0000ff
+  :homepage: !ruby/object:RDF::URI
+    uri: !ruby/object:Addressable::URI
+      authority: www.afcwimbledon.co.uk
+      fragment:
+      hash: 1808789608
+      host: www.afcwimbledon.co.uk
+      normalized_host:
+      normalized_path:
+      normalized_scheme:
+      password:
+      path: /
+      port:
+      query:
+      scheme: http
+      uri_string: http://www.afcwimbledon.co.uk/
+      user:
+      userinfo:
+      validation_deferred: false
+  :shorts: !ruby/object:RDF::Literal
+    language: :en
+    object: 0000ff
+
+? &id033 !ruby/object:RDF::Literal
+  language: :en
+  object: Stoke City F.C.
+:
+  :founded: !ruby/object:RDF::Literal
+    language: :en
+    object: "1863"
+  :socks: !ruby/object:RDF::Literal
+    language: :en
+    object: FFFFFF
+  :clubname: *id033
+  :club: !ruby/object:RDF::URI
+    uri: !ruby/object:Addressable::URI
+      authority: dbpedia.org
+      fragment:
+      hash: 1072100386
+      host: dbpedia.org
+      normalized_host:
+      normalized_path:
+      normalized_scheme:
+      password:
+      path: /resource/Stoke_City_F.C.
+      port:
+      query:
+      scheme: http
+      uri_string: http://dbpedia.org/resource/Stoke_City_F.C.
+      user:
+      userinfo:
+      validation_deferred: false
+  :body: !ruby/object:RDF::Literal
+    language: :en
+    object: CC0000
+  :leftarm: !ruby/object:RDF::Literal
+    language: :en
+    object: CC0000
+  :nickname: !ruby/object:RDF::Literal
+    language: :en
+    object: The Potters
+  :rightarm: !ruby/object:RDF::Literal
+    language: :en
+    object: CC0000
+  :homepage: !ruby/object:RDF::URI
+    uri: !ruby/object:Addressable::URI
+      authority: www.stokecityfc.com
+      fragment:
+      hash: -1216774602
+      host: www.stokecityfc.com
+      normalized_host:
+      normalized_path:
+      normalized_scheme:
+      password:
+      path: /
+      port:
+      query:
+      scheme: http
+      uri_string: http://www.stokecityfc.com/
+      user:
+      userinfo:
+      validation_deferred: false
+  :shorts: !ruby/object:RDF::Literal
+    language: :en
+    object: CC0000
+
+? &id034 !ruby/object:RDF::Literal
+  language: :en
+  object: Reading F.C.
+:
+  :founded: !ruby/object:RDF::Literal
+    language: :en
+    object: "1871"
+  :socks: !ruby/object:RDF::Literal
+    language: :en
+    object: 003cc3
+  :clubname: *id034
+  :club: !ruby/object:RDF::URI
+    uri: !ruby/object:Addressable::URI
+      authority: dbpedia.org
+      fragment:
+      hash: -518869466
+      host: dbpedia.org
+      normalized_host:
+      normalized_path:
+      normalized_scheme:
+      password:
+      path: /resource/Reading_F.C.
+      port:
+      query:
+      scheme: http
+      uri_string: http://dbpedia.org/resource/Reading_F.C.
+      user:
+      userinfo:
+      validation_deferred: false
+  :body: !ruby/object:RDF::Literal
+    language: :en
+    object: 0000FF
+  :leftarm: !ruby/object:RDF::Literal
+    language: :en
+    object: 0000FF
+  :nickname: !ruby/object:RDF::Literal
+    language: :en
+    object: The Royals
+  :rightarm: !ruby/object:RDF::Literal
+    language: :en
+    object: 0000FF
+  :homepage: !ruby/object:RDF::URI
+    uri: !ruby/object:Addressable::URI
+      authority: www.readingfc.co.uk
+      fragment:
+      hash: 1863247711
+      host: www.readingfc.co.uk
+      normalized_host:
+      normalized_path:
+      normalized_scheme:
+      password:
+      path: /
+      port:
+      query:
+      scheme: http
+      uri_string: http://www.readingfc.co.uk/
+      user:
+      userinfo:
+      validation_deferred: false
+  :shorts: !ruby/object:RDF::Literal
+    language: :en
+    object: 0000FF
+
+? &id035 !ruby/object:RDF::Literal
+  language: :en
+  object: Hull City
+:
+  :founded: !ruby/object:RDF::Literal
+    language: :en
+    object: "1904"
+  :socks: !ruby/object:RDF::Literal
+    language: :en
+    object: FFFFFF
+  :clubname: *id035
+  :club: !ruby/object:RDF::URI
+    uri: !ruby/object:Addressable::URI
+      authority: dbpedia.org
+      fragment:
+      hash: 601673489
+      host: dbpedia.org
+      normalized_host:
+      normalized_path:
+      normalized_scheme:
+      password:
+      path: /resource/Hull_City_A.F.C.
+      port:
+      query:
+      scheme: http
+      uri_string: http://dbpedia.org/resource/Hull_City_A.F.C.
+      user:
+      userinfo:
+      validation_deferred: false
+  :body: !ruby/object:RDF::Literal
+    language: :en
+    object: FF9900
+  :leftarm: !ruby/object:RDF::Literal
+    language: :en
+    object: FF9900
+  :nickname: !ruby/object:RDF::Literal
+    language: :en
+    object: The Tigers
+  :rightarm: !ruby/object:RDF::Literal
+    language: :en
+    object: FF9900
+  :homepage: !ruby/object:RDF::URI
+    uri: !ruby/object:Addressable::URI
+      authority: www.hullcityafc.premiumtv.co.uk
+      fragment:
+      hash: 2075267995
+      host: www.hullcityafc.premiumtv.co.uk
+      normalized_host:
+      normalized_path:
+      normalized_scheme:
+      password:
+      path: /page/Home
+      port:
+      query:
+      scheme: http
+      uri_string: http://www.hullcityafc.premiumtv.co.uk/page/Home
+      user:
+      userinfo:
+      validation_deferred: false
+  :shorts: !ruby/object:RDF::Literal
+    language: :en
+    object: FF9900
+
