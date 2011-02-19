@@ -13,6 +13,7 @@ puts graph.size
 
 query = RDF::Query.new({
   :club => {
+    RDF::URI('http://dbpedia.org/property/clubname') => :clubname,
     RDF::URI('http://dbpedia.org/property/body') => :body,
     RDF::URI('http://dbpedia.org/property/leftarm') => :leftarm,
     RDF::URI('http://dbpedia.org/property/rightarm') => :rightarm,
@@ -24,6 +25,9 @@ query = RDF::Query.new({
 results = query.execute(graph)
 puts results.length
 results.each do |club|
+  puts "==="
+  puts club[:clubname]
   puts club[:body]
+  puts "==="
 end
 
